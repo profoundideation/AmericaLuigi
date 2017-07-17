@@ -153,7 +153,7 @@ function googleTranslateElementInit() {
                       <!--<h1> Fun Foods</h1>-->
                       <div align="justify" style="padding-top:2px; line-height:25px;">
                         <h4  style=" line-height:25px;">
-							<p>America Luigi is a fictional chef, featured on YouTube with his mini-me's Squeegee & Weegee.</p>
+							<p>AmericaLuigi an advocate on Fruits & Vegetables, is a fictional chef, featured on YouTube with his mini-me's Squeegee & Weegee.</p>
 							<p>Hi I'm the owner/founder of America Luigi, 1st generation North American born from Italian Immigrants.  Along with Italians, other ethnic groups who come to North America for a better quality of life, bringing their crafted skills and traditional Homestyle recipes, making North America one of the largest melting pots of ethnic dishes.<br /><br /> I can be reached at <a href="mailto:info@americaluigi.com">info @americaluigi.com</a> or <a href="https://twitter.com/americaluigi" target="_blank">Twitter @AmericaLuigi</a>
 							</p>
 						</h4>
