@@ -1170,7 +1170,7 @@ function MM_swapImage() { //v3.0
                                                                                     <td align="center">
                                                                                         <h2><span style="font-weight: bold">*</span></h2></td>
                                                                                     <td>
-                                                                                        <h2><strong> Ontario Residents ADD GST</strong></h2></td>
+                                                                                        <h2><strong> Ontario Residents ADD HST</strong></h2></td>
                                                                                 </tr>
                                                                             </table>
                                                                         </td>

@@ -157,7 +157,7 @@
                               <td align="left"><img src="images/welcom.jpg" width="460" height="110" style="padding-top:15px; padding-bottom:9px" /></td>
                             </tr>
                             <tr>
-                              <td height="89" align="left"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="615" height="100" id="Luigi2" align="middle">
+                              <!-- <td height="89" align="left"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="615" height="100" id="Luigi2" align="middle">
                       <param name="allowScriptAccess" value="sameDomain" />
                       <param name="movie" value="Luigi.swf" />
                       <param name="quality" value="high" />
@@ -168,7 +168,7 @@
                       </embed>
                     </object></td>
                             </tr>
-                            <tr>
+                            <tr> -->
                               <td align="left">
                                 <div> <img src="http://americaluigi.com/2017/images/Am-Pix-8.jpg" width="300" align="left" class="border" style="margin-right:8px; margin-top:5px;" />
                                   <!-- images/about-americaluigi.png -->
