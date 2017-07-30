@@ -17,7 +17,7 @@
 		h1 = parseInt(h)+20+10
 		w1 = parseInt(w)+20
 		var winl = (screen.width-w)/2;
-var wint = (screen.height-h)/2;
+    var wint = (screen.height-h)/2;
 		window.open(htmpath,'newwin','width='+w1+',left='+winl +',top='+ wint +',height='+h1+',scrollbars=0,menubar=0')
 	}
 -->
@@ -76,12 +76,9 @@ function MM_swapImage() { //v3.0
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
   ga('create', 'UA-56296546-1', 'auto');
   ga('send', 'pageview');
-
 </script>
-
 <body onload="MM_preloadImages('images/promotional_serv_m.jpg','images/resto_wine_m.jpg','images/clothing_m.jpg','images/home_style_m.jpg','images/main_pg_m.jpg','images/facelogo_m.jpg')">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -89,19 +86,13 @@ function MM_swapImage() { //v3.0
       <tr>
         <td><img src="images/logo1.jpg" width="1000" height="213" border="0" usemap="#Map" /></td>
       </tr>
-
-
       <tr>
         <td align="center" bgcolor="#F3D308"><table width="1000" border="0" cellspacing="0" cellpadding="0">
             <tr>
-			<td width="100" align="left"><a href="http://www.facebook.com/pages/America-Luigi/166224766733961" target="_blank" onmouseover="MM_swapImage('Image47','','images/facelogo_m.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/facelogo.jpg" alt="Follow me on Facebook" name="Image47" width="28" height="28" border="0" id="Image47" /></a></td>
-
+			<td width="100" align="left"><a href="http://www.facebook.com/pages/America-Luigi/166224766733961" target="_blank" onmouseover="MM_swapImage('Image47','','images/facelogo_m.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/facelogo.jpg" alt="Follow me on Facebook" name="Image47" width="28" height="28" border="0" id="Image47" /></a></td>              
             <td align="center"><a href="index.php" title="ABOUT US" alt="ABOUT US"><span style="font-size: large; color: #000; padding: 0px 30px 0px 0px;">ABOUT</span></a></td>
-
             <td align="center"><img src="images/line1.jpg" width="1" height="30" /></td>
-
 			<td align="center"><a href="mobile_app.php"><span style="font-size: large; color: #000; padding: 0px 30px 0px 30px;">GAMES</span></a></td>
-
             <td align="center"><img src="images/line1.jpg" width="1" height="30" /></td>
 
             <td align="center"><a href="youtube.php"><span style="font-size: large; color: #000; padding: 0px 30px 0px 30px;">YOUTUBE</span></a></td>
@@ -249,27 +240,36 @@ function googleTranslateElementInit() {
               </table>
               <img src="images/down.jpg" width="658" height="14" /></td>
           </tr>
-        </table></td>
+        </table>
+          
+        </td>
               </tr>
-            </table></td>
+            </table>
+              
+            </td>
           </tr>
-        </table></td>
+        </table>
+          
+        </td>
       </tr>
         </table>
 	   <!-- InstanceEndEditable --> </td>
 	  </tr>
 
       <tr>
-        <td height="70" bgcolor="#493015"><div class="menu"><ul>
+        <td height="70" bgcolor="#493015">
+          <div class="menu">
+            <ul>
 		<li><a href="index.php">About Us</a></li>
 		<li><a href=".">Mobile Game Apps.</a></li>
 		<li><a href="youtube.php">YouTube</a></li>
-                  <!-- <li><a href="cornucopia.php">Cornucopia</a></li> -->
-                  <li><a href="gallery.php">Gallery</a></li>
+    <!-- <li><a href="cornucopia.php">Cornucopia</a></li> -->
+    <li><a href="gallery.php">Gallery</a></li>
 		<li><a href="novelty_items.php">Novelty items</a></li>
 		<li>America Luigi Registered Trademark &nbsp; &nbsp; &nbsp; All Rights Reserved.</li>
-
-		</ul></div></td>
+		</ul>		  
+		</div>		  
+		</td>
       </tr>
     </table></td>
   </tr>
