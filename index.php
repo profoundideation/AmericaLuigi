@@ -9,7 +9,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
   <title>Welcome to America Luigi</title>
-  <meta name="description" content="Welcome to America Luigi, I am delighted to visit your homes or Restaurants and share our intimate cooking experience with the rest of the world." />
+  <meta name="description" content="Welcome to America Luigi, I am delighted to visit your Businesses or Restaurants and share our intimate cooking experience with the rest of the world." />
   <script type="text/JavaScript">
     <!--
         function MM_swapImgRestore() { //v3.0
