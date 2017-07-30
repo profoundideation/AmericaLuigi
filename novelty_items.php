@@ -1213,18 +1213,19 @@ function MM_swapImage() { //v3.0
                                 </ul>
                                 <div align="right">
                                     <abbr title="Web Development">Web Dev.</abbr> &amp; <abbr title="Holographic Search Engine Optimization">SEO<abbr> by <a href="http://ProfoundIdeation.com" style="text-decoration:none" rel="contact met co-worker" title="Profound Ideation Inc. Web Development & SEO Toronto" alt="Profound Ideation Inc. SEO & Web Dev. Toronto"><img src="http://torontoseokeywords.com/wp-content/uploads/2012/10/ProfoundIdeation-Logo.png" title="Profound Ideation Inc. Web Development & SEO Toronto" alt="Profound Ideation Inc. SEO & Web Dev. Toronto" width="15px" height="15px" /></a> <a style="text-decoration:none" href="http://ProfoundIdeation.com" title="Profound Ideation Inc. Web Development & SEO Toronto" alt="Profound Ideation Inc. SEO & Web Dev. Toronto" rel="contact met co-worker" target="_blank"><span class="fn">Profound Ideation, Inc.</span></a>
- </div>
- </td>
- </tr>
- </table>
- </td>
- </tr>
+                </div>
+            </td>
+          </tr>
+      </table>
+    </td>
+   </tr>
  </table>
 
  <map name="Map" id="Map">
- <area shape="poly" coords="183,150,184,82,469,89,488,13,578,12,606,51,606,103,627,96,764,87,840,86,827,138,809,153,621,154,611,201,488,202,465,152" href="index.php" />
- <area shape="poly" coords="499,35" href="#" />
+    <area shape="poly" coords="183,150,184,82,469,89,488,13,578,12,606,51,606,103,627,96,764,87,840,86,827,138,809,153,621,154,611,201,488,202,465,152" href="index.php" />
+    <area shape="poly" coords="499,35" href="#" />
  </map>
+ 
  </body>
  <!-- InstanceEnd -->
 
