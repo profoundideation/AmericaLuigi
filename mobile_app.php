@@ -263,9 +263,9 @@ function googleTranslateElementInit() {
 		<li><a href="index.php">About Us</a></li>
 		<li><a href=".">Mobile Game Apps.</a></li>
 		<li><a href="youtube.php">YouTube</a></li>
-		<li><a href="cornucopia.php">Cornucopia</a></li>
+                  <!-- <li><a href="cornucopia.php">Cornucopia</a></li> -->
+                  <li><a href="gallery.php">Gallery</a></li>
 		<li><a href="novelty_items.php">Novelty items</a></li>
-		�������
 		<li>America Luigi Registered Trademark &nbsp; &nbsp; &nbsp; All Rights Reserved.</li>
 
 		</ul></div></td>
