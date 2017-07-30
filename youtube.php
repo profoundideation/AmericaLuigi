@@ -96,6 +96,9 @@ function MM_swapImage() { //v3.0
 
             <td align="center"><img src="images/line1.jpg" width="1" height="30" /></td>
 
+<!-- <li><a href="cornucopia.php">Cornucopia</a></li> 
+					        <li><a href="gallery.php">Gallery</a></li> -->
+      
 			<td align="center" style="width: 200px;"><a href="gallery.php"><span style="font-size: large; color: #000; padding: 0px 30px 0px 30px;">GALLERY</span></a></td>
 
 			<td align="center"><img src="images/line1.jpg" width="1" height="30" /></td>
