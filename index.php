@@ -257,12 +257,13 @@
                 </ul>
                 <div align="right">
                   <abbr title="Web Development">Web Dev.</abbr> & <abbr title="Search Engine Optimization">SEO<abbr> by <a href="http://ProfoundIdeation.com" style="text-decoration:none" rel="contact met co-worker" title="Profound Ideation Inc. Web Development & SEO Toronto" alt="Profound Ideation Inc. SEO & Web Dev. Toronto"><img src="http://torontoseokeywords.com/wp-content/uploads/2012/10/ProfoundIdeation-Logo.png" title="Profound Ideation Inc. Web Development & SEO Toronto" alt="Profound Ideation Inc. SEO & Web Dev. Toronto" width="15px" height="15px" /></a> <a style="text-decoration:none" href="http://ProfoundIdeation.com" title="Profound Ideation Inc. Web Development & SEO Toronto" alt="Profound Ideation Inc. SEO & Web Dev. Toronto" rel="contact met co-worker" target="_blank"><span class="fn">Profound Ideation Inc.</span></a>
-			</div>
-		</td>
-      </tr>
-    </table></td>
-  </tr>
-</table>
+			          </div>
+		        </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 </div>
 </body>
 </html>
