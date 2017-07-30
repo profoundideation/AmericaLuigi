@@ -3,7 +3,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>Welcome to America Luigi</title>
 
-
 <script type="text/javascript" src="js/prototype.js"></script>
 <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
 <script type="text/javascript" src="js/lightbox.js"></script>
@@ -62,7 +61,6 @@ function MM_swapImage() { //v3.0
 
 
 </head>
-<?php flush(); ?>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -1087,25 +1085,34 @@ function googleTranslateElementInit() {
 	  <!-- InstanceEndEditable --> </td>
 	  </tr>
 
-      <tr>
-        <td height="70" bgcolor="#493015"><div class="menu"><ul>
-		<li><a href="index.php">About Us</a></li>
-		<li><a href="mobile_app.php">Mobile Game Apps.</a></li>
-		<li><a href="youtube.php">YouTube</a></li>
-		<li><a href="cornucopia.php">Cornucopia</a></li>
-		<li><a href=".">Novelty items</a></li>						�������
-		<li>America Luigi Registered  Trademark  &nbsp; &nbsp; &nbsp; All Rights Reserved.  </li>
-		</ul></div></td>
-      </tr>
-    </table></td>
-  </tr>
-</table>
+                                                
+                        <tr>
+                                    <td height="70" bgcolor="#493015">
+                                      <div class="menu">
+                                        <ul>
+                                          <li><a href=".">About Us</a></li>
+                                          <li><a href="mobile_app.php">Mobile Game Apps.</a></li>
+                                          <li><a href="youtube.php">YouTube</a></li>
+                                          <!-- <li><a href="cornucopia.php">Cornucopia</a></li> -->
+                                          <li><a href="gallery.php">Gallery</a></li>
+                                          <li><a href="novelty_items.php">Novelty Items</a></li>
+                                          <li>America Luigi Registered Trademark &nbsp; &nbsp; &nbsp; All Rights Reserved. </li>
+                                        </ul>
+                                        <div align="right">
+                                          <abbr title="Web Development">Web Dev.</abbr> &amp; <abbr title="Holographic Search Engine Optimization">SEO<abbr> by <a href="http://ProfoundIdeation.com" style="text-decoration:none" rel="contact met co-worker" title="Profound Ideation Inc. Web Development & SEO Toronto" alt="Profound Ideation Inc. SEO & Web Dev. Toronto"><img src="http://torontoseokeywords.com/wp-content/uploads/2012/10/ProfoundIdeation-Logo.png" title="Profound Ideation Inc. Web Development & SEO Toronto" alt="Profound Ideation Inc. SEO & Web Dev. Toronto" width="15px" height="15px" /></a> <a style="text-decoration:none" href="http://ProfoundIdeation.com" title="Profound Ideation Inc. Web Development & SEO Toronto" alt="Profound Ideation Inc. SEO & Web Dev. Toronto" rel="contact met co-worker" target="_blank"><span class="fn">Profound Ideation Inc.</span></a>
+                                        </div>
+                                    </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
 
-		<div align="right">
-			<abbr title="Web Development">Web Dev.</abbr> & <abbr title="Search Engine Optimization">SEO<abbr> by <a href="http://ProfoundIdeation.com" style="text-decoration:none" rel="contact met co-worker" title="Profound Ideation Inc. Web Development & SEO Toronto" alt="Profound Ideation Inc. SEO & Web Dev. Toronto"><img src="http://torontoseokeywords.com/wp-content/uploads/2012/10/ProfoundIdeation-Logo.png" title="Profound Ideation Inc. Web Development & SEO Toronto" alt="Profound Ideation Inc. SEO & Web Dev. Toronto" width="15px" height="15px" /></a> <a style="text-decoration:none" href="http://ProfoundIdeation.com" title="Profound Ideation Inc. Web Development & SEO Toronto" alt="Profound Ideation Inc. SEO & Web Dev. Toronto" rel="contact met co-worker" target="_blank"><span class="fn">Profound Ideation Inc.</span></a>
-		</div>
+        <map name="Map" id="Map">
+            <area shape="poly" coords="183,150,184,82,469,89,488,13,578,12,606,51,606,103,627,96,764,87,840,86,827,138,809,153,621,154,611,201,488,202,465,152" href="index.php" />
+            <area shape="poly" coords="499,35" href="#" />
+        </map>
+    </body>
+    <!-- InstanceEnd -->
 
-<map name="Map" id="Map">
-<area shape="poly" coords="183,150,184,82,469,89,488,13,578,12,606,51,606,103,627,96,764,87,840,86,827,138,809,153,621,154,611,201,488,202,465,152" href="index.htm" />
-<area shape="poly" coords="499,35" href="#" /></map></body>
-<!-- InstanceEnd --></html>
+    </html>
